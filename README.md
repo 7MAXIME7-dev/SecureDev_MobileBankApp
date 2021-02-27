@@ -47,8 +47,12 @@ My app containts 3 permissions. they are declared in the AndroidManifest.xml
 <uses-permission android:name="android.permission.USE_BIOMETRIC" />
 
 ```
+All of this permissions are justified.
 
-## Debugging information are accessible
+
+## Debugging information are not accessible
+
+I disable debugging by setting the android:debuggable attribute to false from the <application> tag in your manifest file.
 
 
 ## Screenshots of your application 
