@@ -70,6 +70,10 @@ _________________
 SECOND CONNECTION
 _________________
 
+
+<img src="c3.jpg" height="40%" width="40%">
+
+
 <img src="c2.jpg" height="40%" width="40%">
 
 
