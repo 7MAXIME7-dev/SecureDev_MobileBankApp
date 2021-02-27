@@ -39,9 +39,9 @@ To sum up, in order to hide API URL I used:
 
 ## Screenshots of your application 
 
-
-FIRST CONNECTION :
-
+_________________
+FIRST CONNECTION 
+_________________
 
 <img src="c3.jpg" height="40%" width="40%">
 
@@ -65,7 +65,10 @@ FIRST CONNECTION :
 
 
 
-SECOND CONNECTION :
+
+_________________
+SECOND CONNECTION
+_________________
 
 <img src="c2.jpg" height="40%" width="40%">
 
