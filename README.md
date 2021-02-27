@@ -15,7 +15,7 @@ source : https://developer.android.com/training/sign-in/biometric-auth
 ## user's data securely saved on the phone
 
 
-By following recommandations on this link : https://developer.android.com/topic/security/data#kotlin ,  I save data thanks to EncryptedSharedPreferences.
+By following recommandations on this link : https://developer.android.com/topic/security/data#kotlin ,  I save datas (Config & Accounts files) thanks to EncryptedSharedPreferences.
 
 So, we can find files on the phone but datas are unreadable. See below : 
 
