@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BankAccount</string>
+    <string name="invalid_field">Invalid Field</string>
+    <string name="network_issues">Network Issues</string>
+    <string name="ok_bnt">OK</string>
+    <string name="connected">Connected to the Network</string>
+    <string name="disconnected">Disconnected to the Network</string>
+    <string name="hintId">fill your ID here</string>
+    <string name="accountsKey">accounts</string>
+    <string name="sharedPrefsAccount">ACCOUNTS</string>
+    <string name="sharedPrefsConfig">CONFIG</string>
+    <string name="refreshStr">Refresh</string>
+</resources>
