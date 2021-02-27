@@ -49,16 +49,19 @@ _________________
 <img src="c2.jpg" height="40%" width="40%">
 
 
+<img src="c6.jpg" height="40%" width="40%">
+
+
+<img src="c7.jpg" height="40%" width="40%">
+
+
 <img src="c4.jpg" height="40%" width="40%">
 
 
 <img src="c5.jpg" height="40%" width="40%">
 
 
-<img src="c6.jpg" height="40%" width="40%">
 
-
-<img src="c7.jpg" height="40%" width="40%">
 
 
 <img src="c8.jpg" height="40%" width="40%">
