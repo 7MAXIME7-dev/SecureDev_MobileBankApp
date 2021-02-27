@@ -40,6 +40,8 @@ To sum up, in order to hide API URL I used:
 ## Screenshots of your application 
 
 
+FIRST CONNECTION :
+
 
 <img src="c3.jpg" height="40%" width="40%">
 
@@ -57,6 +59,15 @@ To sum up, in order to hide API URL I used:
 
 
 <img src="c7.jpg" height="40%" width="40%">
+
+
+<img src="c8.jpg" height="40%" width="40%">
+
+
+
+SECOND CONNECTION :
+
+<img src="c2.jpg" height="40%" width="40%">
 
 
 <img src="c8.jpg" height="40%" width="40%">
