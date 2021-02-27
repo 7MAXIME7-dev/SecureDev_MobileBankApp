@@ -55,7 +55,7 @@ All of this permissions are justified.
 I disable debugging by setting the android:debuggable attribute to false from the <application> tag in the manifest file.
 
 
-## Screenshots of your application 
+## Screenshots of my application 
 
 _________________
 FIRST CONNECTION 
