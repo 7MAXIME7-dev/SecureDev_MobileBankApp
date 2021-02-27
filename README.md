@@ -37,6 +37,20 @@ To sum up, in order to hide API URL I used:
  - CMake (open-source system that manages the build process in an operating system and a compiler-independent manner)
 
 
+## Permissions
+
+My app containts 3 permissions. they are declared in the AndroidManifest.xml
+
+```
+<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+<uses-permission android:name="android.permission.INTERNET" />
+<uses-permission android:name="android.permission.USE_BIOMETRIC" />
+
+```
+
+## Debugging information are accessible
+
+
 ## Screenshots of your application 
 
 _________________
