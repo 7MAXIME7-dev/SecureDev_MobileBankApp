@@ -16,7 +16,7 @@ By following recommandations on this link : https://developer.android.com/topic/
 
 So, we can find files on the phone but datas are unreadable. See below : 
 
-![myImg](SharedPrefs1.JPG)
+![myImg1](SharedPrefs1.JPG)
 
 
 
