@@ -40,7 +40,10 @@ To sum up, in order to hide API URL I used:
 ## Screenshots of your application 
 
 
-![](c2.jpg)   ![](c3.jpg)
+![](c2.jpg){:height="50%" width="50%"}  
+
+
+![](c3.jpg)
 
 
 
