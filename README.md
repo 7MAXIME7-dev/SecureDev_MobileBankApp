@@ -48,7 +48,7 @@ To sum up, in order to hide API URL I used:
 
 
 
-![](c3.jpg)
+![](c3.jpg height="50%" width="50%")
 
 
 
