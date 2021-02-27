@@ -44,6 +44,9 @@ To sum up, in order to hide API URL I used:
 <img src="c2.jpg" height="50%" width="50%">
 
 
+<img src="c3.jpg" height="50%" width="50%">
+
+
 
 ![](c3.jpg)
 
