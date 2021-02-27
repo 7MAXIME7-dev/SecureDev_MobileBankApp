@@ -52,7 +52,7 @@ All of this permissions are justified.
 
 ## Debugging information are not accessible
 
-I disable debugging by setting the android:debuggable attribute to false from the <application> tag in your manifest file.
+I disable debugging by setting the android:debuggable attribute to false from the <application> tag in the manifest file.
 
 
 ## Screenshots of your application 
