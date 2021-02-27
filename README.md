@@ -40,7 +40,7 @@ To sum up, in order to hide API URL I used:
 ## Screenshots of your application 
 
 
-![](c2.jpg)
+![](c2.jpg=100x20)
 
 
 ![](c3.jpg)
